@@ -1,6 +1,6 @@
 # Ecohydrology_MetaEcosysem
 
-Code supporting the manuscript "Mechanistic insights on riverine meta-ecosystems: network shape drives spatial biodiversity and trophic structures" by Luca Carraro and Hsi-Cheng Ho, submitted to *Ecohydrology*.
+Code supporting the manuscript "Mechanistic insights on riverine meta-ecosystems: network shape drives spatial biodiversity and trophic structures" by Luca Carraro and Hsi-Cheng Ho, published in *Ecohydrology* (2024).
 
 ## Content
 
